@@ -54,13 +54,17 @@ This is a practical workflow demonstration, not a controlled experiment. No meas
 academic-ai-workflow/
 ├── documents/
 │   ├── project-plan/
+│   │   └── Akademik_YZ_Proje_Plani(1).docx
 │   ├── literature-review/
+│   │   └── Literatur_Analizi_Duzenlenmis_TR.docx
 │   └── citation-audit/
+│       └── Citation_Audit_IEEE_Final.docx
 ├── presentation/
+│   └── Akademik_YZ_Sunum_Final(2).pptx
 └── README.md
 ```
 
-The folders are prepared for the final project files. Add only materials that may be shared publicly and that you have permission to publish.
+Add only materials that may be shared publicly and that you have permission to publish.
 
 ## Academic integrity and responsible use
 
